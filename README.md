@@ -4,7 +4,7 @@
 * SQL (Basic)
 
 ## Courses:
-* Programming for Everybody [[course]](https://www.coursera.org/learn/python) [[certificate]](https://www.coursera.org/account/accomplishments/verify/JH6EAWYBS4C6) [[code]](https://github.com/SwethaVijayaraju/Python_for_Everybody/tree/master/Getting_Started_with_Python)
+* **Programming for Everybody** [[course]](https://www.coursera.org/learn/python) [[certificate]](https://www.coursera.org/account/accomplishments/verify/JH6EAWYBS4C6) [[code]](https://github.com/SwethaVijayaraju/Python_for_Everybody/tree/master/Getting_Started_with_Python)
   * Learned the language constructs to solve problems in a programmatic way using functions and loops.
 
 * Python Data Structures  [[course]](https://www.coursera.org/learn/python-data) [[certificate]](https://www.coursera.org/account/accomplishments/verify/ELJL5N68TAAX) [[code]](https://github.com/SwethaVijayaraju/Python_for_Everybody/tree/master/Python_Data_Structures)
