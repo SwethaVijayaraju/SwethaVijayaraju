@@ -18,7 +18,7 @@
 
 * **Data Science for Construction, Architecture and Engineering** [[course]](https://www.edx.org/course/Data-Science-for-Construction-Architecture-and-Engineering) [[certificate]](https://courses.edx.org/certificates/5bbe69a4baab4092a5f9df718c9594b6) [[code]](https://drive.google.com/drive/folders/1uAVMsMZs6vYyVioXF3tnylpv_it7icZe?usp=sharing)
   * Used Pandas library to perform time series analysis of building electricity usage vs outdoor temperature reading to understand electricity usage for different building types across different seasons. 
-  * Used [AHRAE](http://www.comfortdatabase.com/) Thermal Comfort Database to analyze and visualize how personal preference of comfort changes across different regions based on building temperature level. I also used the Seaborn plot library on top of pandas to display better visualizations for scatter and box plots.
+  * Used [ASHRAE](http://www.comfortdatabase.com/) Thermal Comfort Database to analyze and visualize how personal preference of comfort changes across different regions based on building temperature level. I also used the Seaborn plot library on top of pandas to display better visualizations for scatter and box plots.
   * Used Pandas machine learning library to build simple classifiers(K-Means) to group building electric usage over a year. E.g., the model automatically identifies without data labeling that electricity usage during months May, June and July fall under the same group(high consumption).
   * Built a simple linear regression model(KNeighborsRegressor) to predict electricity usage of a building for a month using data from previous months. Calculated the error(Mean Absolute Error) based on the predicted vs actual usage over that month.
 
