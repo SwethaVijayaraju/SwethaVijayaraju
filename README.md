@@ -1,7 +1,9 @@
 ## Programming Languages:
-* Python (Intermediate)
-* HTML/CSS/Javascript (Intermediate)
-* SQL (Basic)
+* Programming Languages: Python, Java, C, R, Javascript/HTML/CSS
+* Analytics Libraries: pandas, numpy, scikit-learn, seaborn, matplotlib
+* Machine Learning: supervised - classification, regression; unsupervised - clustering
+* Databases: MySQL, SQLite, PostgreSQL
+* Other Tools/Tech: Git, System Design, Schema design, Data modeling, Data warehousing
 
 ## Courses:
 * **Programming for Everybody** [[course]](https://www.coursera.org/learn/python) [[certificate]](https://www.coursera.org/account/accomplishments/verify/JH6EAWYBS4C6) [[code]](https://github.com/SwethaVijayaraju/Python_for_Everybody/tree/master/Getting_Started_with_Python)
