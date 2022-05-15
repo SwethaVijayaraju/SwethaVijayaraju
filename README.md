@@ -1,9 +1,9 @@
 ## Programming Languages:
-* Programming Languages: Python, Java, C, R, Javascript/HTML/CSS
-* Analytics Libraries: pandas, numpy, scikit-learn, seaborn, matplotlib
-* Machine Learning: supervised - classification, regression; unsupervised - clustering
-* Databases: MySQL, SQLite, PostgreSQL
-* Other Tools/Tech: Git, System Design, Schema Design, Data Modeling, Data Warehousing
+* Programming Languages:  Python, Java, C, R, Bash
+* Frameworks:  JavaFX, Spring boot, Pandas, Numpy, Scikit-learn, NLTK, Matplotlib, PyTorch
+* Cloud Technologies:  AWS(EC2, S3, Lambda, Comprehend, Textract), Terraform
+* Databases: MySQL, PostgreSQL, SQLite
+* Other tools/tech: Git, Information System Design, Data Modeling, Schema Design
 
 ## Courses:
 * **Programming for Everybody** [[course]](https://www.coursera.org/learn/python) [[certificate]](https://www.coursera.org/account/accomplishments/verify/JH6EAWYBS4C6) [[code]](https://github.com/SwethaVijayaraju/Python_for_Everybody/tree/master/Getting_Started_with_Python)
