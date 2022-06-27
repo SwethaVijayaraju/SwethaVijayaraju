@@ -1,5 +1,5 @@
 ## Programming Languages:
-* Programming Languages:  Python, Java,Ruby, HTML/CSS/JavaScript, C, R, Bash, 
+* Programming Languages:  Python, Java, Ruby, HTML/CSS/JavaScript, C, R, Bash, 
 * Frameworks:  JavaFX, Spring boot, Pandas, Numpy, Scikit-learn, NLTK, Matplotlib, PyTorch
 * Cloud Technologies:  Virtualization, AWS(EC2, S3, Lambda, Comprehend, Textract), Terraform
 * Databases: MySQL, PostgreSQL, SQLite
