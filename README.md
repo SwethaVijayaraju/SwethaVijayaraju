@@ -1,9 +1,9 @@
 ## Programming Languages:
-* Programming Languages:  Python, Java, Ruby, HTML/CSS/, C, Bash, 
-* Frameworks: Spring boot, Sinatra, JavaFX, Pandas, Numpy, Scikit-learn, NLTK, Matplotlib, PyTorch
-* Cloud Technologies:  Docker, Virtualization, AWS(EC2, S3, Lambda, Comprehend, Textract), Terraform
+* Programming Languages:  Python, Java, Ruby, HTML/CSS, C, Linux 
+* Frameworks: SpringBoot, Flask, Sinatra, JavaFX, Pandas, Numpy, Scikit-learn, NLTK, Matplotlib, PyTorch
+* Cloud Technologies:  Docker, Kubernetes, Virtualization, AWS(EC2, S3, Lambda, Comprehend, Textract), Terraform
 * Databases: MySQL, PostgreSQL, SQLite
-* Other tools/tech: Git, Information System Design, Data Modeling, Schema Design
+* Other tools/tech: MLOps, System Design, Git, Data Modeling, Schema Design
 
 ## Courses:
 * **Programming for Everybody** [[course]](https://www.coursera.org/learn/python) [[certificate]](https://www.coursera.org/account/accomplishments/verify/JH6EAWYBS4C6) [[code]](https://github.com/SwethaVijayaraju/Python_for_Everybody/tree/master/Getting_Started_with_Python)
