@@ -3,14 +3,14 @@ Hi, I'm Swetha, a Software Engineer with experience working in backend systems. 
 Most recently I interned as a Backend Engineer at Collective Health, where I successfully completed a migration project using Java and SpringBoot.
 
 I have a multi-faceted background in Architecture, Urban Design and Data Science which has shaped me into an effective communicator with different teams, fast-learner and a person who is open to challenges.
-• Programming Languages: Python, Java, Ruby, C, Shell Scripting
-• Backend Frameworks: Spring Boot, Flask, JavaFx, Sinatra
-• ML Frameworks : Scikit-learn, NLTK, SpaCy, AutoGluon, Pandas, Numpy, t-SNE, BERT
-• Cloud Technologies: Docker, Kubernetes, GCP, AWS, Terraform
-• Databases : PostGres, SQLite, MySQL
-• Tools: Maven, Jenkins, Git
-• Practices: MLOps, Agile, Crisp-DM, CI/CD
-• Other technologies: JSON, System Design, Data Modeling, Schema Design
+* Programming Languages: Python, Java, Ruby, C, Shell Scripting
+* Backend Frameworks: Spring Boot, Flask, JavaFx, Sinatra
+* ML Frameworks : Scikit-learn, NLTK, SpaCy, AutoGluon, Pandas, Numpy, t-SNE, BERT
+* Cloud Technologies: Docker, Kubernetes, GCP, AWS, Terraform
+* Databases : PostGres, SQLite, MySQL
+* Tools: Maven, Jenkins, Git
+* Practices: MLOps, Agile, Crisp-DM, CI/CD
+* Other technologies: JSON, System Design, Data Modeling, Schema Design
 
 ## Courses:
 * **Programming for Everybody** [[course]](https://www.coursera.org/learn/python) [[certificate]](https://www.coursera.org/account/accomplishments/verify/JH6EAWYBS4C6) [[code]](https://github.com/SwethaVijayaraju/Python_for_Everybody/tree/master/Getting_Started_with_Python)
