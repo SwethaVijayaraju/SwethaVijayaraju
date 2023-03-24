@@ -10,7 +10,7 @@ I have a multi-faceted background in Architecture, Urban Design and Data Science
 * Databases : PostGres, SQLite, MySQL
 * Tools: Maven, Jenkins, Git
 * Practices: MLOps, Agile, Crisp-DM, CI/CD
-* Other technologies: JSON, System Design, Data Modeling, Schema Design
+* Other technologies: Tableau, JSON, System Design, Data Modeling, Schema Design
 
 ## Courses:
 * **Programming for Everybody** [[course]](https://www.coursera.org/learn/python) [[certificate]](https://www.coursera.org/account/accomplishments/verify/JH6EAWYBS4C6) [[code]](https://github.com/SwethaVijayaraju/Python_for_Everybody/tree/master/Getting_Started_with_Python)
