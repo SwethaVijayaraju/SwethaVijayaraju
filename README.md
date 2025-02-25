@@ -12,6 +12,10 @@ I have a multi-faceted background in Architecture, Urban Design and Data Science
 * Practices: MLOps, Agile, Crisp-DM, CI/CD
 * Other technologies: Tableau, JSON, System Design, Data Modeling, Schema Design
 
+## My Leetcode frenzy:
+![Leetcode Stats](https://leetcard.jacoblin.cool/SwethaVijayaraju)
+
+
 ## Courses:
 * **Programming for Everybody** [[course]](https://www.coursera.org/learn/python) [[certificate]](https://www.coursera.org/account/accomplishments/verify/JH6EAWYBS4C6) [[code]](https://github.com/SwethaVijayaraju/Python_for_Everybody/tree/master/Getting_Started_with_Python)
   * Learned the language constructs to solve problems in a programmatic way using functions and loops.
